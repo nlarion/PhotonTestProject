@@ -68,7 +68,10 @@ public class TankController:LerpRigidbody {
 	[PunRPC]
     void TankDestroyed(int sourcePlayerIndex) {
         // We died! Destroy ourselves and tell the game manager
-        Destroy(gameObject);
+		if (photonView.isMine) {
+			PhotonNetwork.Destroy (gameObject);
+		}
+       
         NetworkGameManager.I.TankWasDestroyed();
         // Tell everyone else that the person who killed us scored a point
         PlayerUI.I.PlayerScored(sourcePlayerIndex);
