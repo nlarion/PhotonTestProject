@@ -1,0 +1,50 @@
+Initialize engine version: 5.3.2p1 (82077c0be25b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD RADEON R9 M290X (ID=0x6810)
+    Vendor:   ATI
+    VRAM:     2030 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.119 seconds
+Platform assembly: C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Varian\Documents\PhotonTestProject\testPhotonGame_Data\Managed\System.dll (this message is harmless)
+desktop: 3840x2160 60Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.698812 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.374418 ms
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 0.298234 ms (FindLiveObjects: 0.019061 ms CreateObjectMapping: 0.012902 ms MarkObjects: 0.211725 ms  DeleteObjects: 0.053957 ms)
+
+Operation failed: OperationResponse 225: ReturnCode: 32760 (No match found). Parameters: {}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.359088 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 482.
+Total: 0.627260 ms (FindLiveObjects: 0.048679 ms CreateObjectMapping: 0.044573 ms MarkObjects: 0.516705 ms  DeleteObjects: 0.016128 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 12dc -> priority: 1 
